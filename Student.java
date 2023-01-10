@@ -18,4 +18,4 @@ class Student{
             this.name=name;
             this.class=class;
         }
-}q
+}
